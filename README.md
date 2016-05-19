@@ -2,7 +2,7 @@
 repo for arduino projects
 
 # Prerequisites
-1. Adafruit Huzza based ESP8266 + WiFi module
+1. Adafruit Huzza based ESP8266
 2. LCD 2 lines display, 16 symbols length
 3. 2 buttons
 4. Arduino IDE v1.6.8
