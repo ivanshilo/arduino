@@ -1,0 +1,3 @@
+this project requires mosquitto mqtt server to be installed
+also it requires paho-mqtt for python
+
