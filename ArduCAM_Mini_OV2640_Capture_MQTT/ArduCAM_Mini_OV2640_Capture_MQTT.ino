@@ -33,8 +33,8 @@ const int CS = 10;
 const int sdChipSelect = 15;
 
 int wifiType = 0; // 0:Station  1:AP
-const char* ssid = "sara141"; // Put your SSID here
-const char* password = "encr1pt10npa$$"; // Put your PASSWORD here
+const char* ssid = ""; // Put your SSID here
+const char* password = "$$"; // Put your PASSWORD here
 const char* mqtt_server = "10.20.30.32"; //MQTT server address
 /************************* Adafruit.io Setup *********************************/
 
